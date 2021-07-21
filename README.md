@@ -8,11 +8,11 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning: Java. My whole goal with modding was to learn java properly!
 - 🤔 I’m looking for help with: Anything! If you feel i did a stupid somewhere, help me out!
 - 💬 Ask me about: Minecraft, Compuers
-- 📫 How to reach me: [![Discord](https://img.shields.io/discord/803619130090848286?color=%237289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/28N2Eeq2tT) [![Twitter Follow](https://img.shields.io/twitter/follow/NoComment_MC?label=%40NoComment_MC&style=social)](https://twitter.com/NoComment_MC) 
+- 📫 How to reach me:  [![Discord](https://img.shields.io/discord/803619130090848286?color=%237289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/28N2Eeq2tT) [![Twitter Follow](https://img.shields.io/twitter/follow/NoComment_MC?label=%40NoComment_MC&style=social)](https://twitter.com/NoComment_MC) 
 - 😄 Pronouns: They/Them
 - ⏰ Timezone: UTC/UTC+1
 
-- Want to support me?: [![Patron](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DNoComment1105%26type%3Dpatrons&style=for-the-badge)](https://www.patreon.com/NoComment1105) 
+- Want to support me?:  [![Patron](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DNoComment1105%26type%3Dpatrons&style=for-the-badge)](https://www.patreon.com/NoComment1105) 
 
  
 
