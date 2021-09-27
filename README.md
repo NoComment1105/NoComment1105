@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 
 - Want to support me?:  [![Patron](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DNoComment1105%26type%3Dpatrons&style=for-the-badge)](https://www.patreon.com/NoComment1105) 
 
- 
+ ### Stats and stuff
+ I don't really intend to show off my stats to others im just personally interested in what i do, and this is an easy way for me to veiw them
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=NoComment1105&count_private=true&show_icons=true&include_all_commits=true&theme=dracula) 
+![NoComments's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NoComment1105)
