@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 My Projects: [Periodic](https://github.com/NoComment1105/periodic-mod-minecraft), [SmoothBedrock](https://github.com/NoComment1105/SmoothBedrock-by-Blayyke), [DeepslateCutting](https://github.com/NoComment1105/DeepslateCutting-fabric), [LilyBot](https://github.com/IrisShaders/LilyBot), [MobSpecificEnchants](https://github.com/NoComment1105/MobSpecificEnchants), [MoreLogBlocks](https://github.com/NoComment1105/MoreLogBlocks)
+- 🔭 My Projects: [Periodic](https://github.com/NoComment1105/periodic-mod-minecraft), [DeepslateCutting](https://github.com/NoComment1105/DeepslateCutting-fabric), [LilyBot](https://github.com/IrisShaders/LilyBot), [MobSpecificEnchants](https://github.com/NoComment1105/MobSpecificEnchants), [MoreLogBlocks](https://github.com/NoComment1105/MoreLogBlocks)
 - 🔭 I help out with: [The Iris Project](https://github.com/IrisShaders/), as a Community moderator. [QuiltMC](https://github.com/QuiltMC), as a mappings reveiwer
 - 🌱 I’m currently learning: Java. My whole goal with modding was to learn java properly!
 - 🤔 I’m looking for help with: Anything! If you feel i did a stupid somewhere, help me out!
