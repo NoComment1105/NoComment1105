@@ -18,4 +18,6 @@ Here are some ideas to get you started:
  I don't really intend to show off my stats to others im just personally interested in what i do, and this is an easy way for me to veiw them
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=NoComment1105&count_private=true&show_icons=true&include_all_commits=true&theme=dracula) 
+<!--START_SECTION:waka-->
 ![NoComments's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NoComment1105&theme=dracula)
+<!--END_SECTION:waka-->
