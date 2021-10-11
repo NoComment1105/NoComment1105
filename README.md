@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 - 🔭 My Projects: [Periodic](https://github.com/NoComment1105/periodic-mod-minecraft), [DeepslateCutting](https://github.com/NoComment1105/DeepslateCutting-fabric), [LilyBot](https://github.com/IrisShaders/LilyBot), [MobSpecificEnchants](https://github.com/NoComment1105/MobSpecificEnchants), [MoreLogBlocks](https://github.com/NoComment1105/MoreLogBlocks)
 - 🔭 I help out with: [The Iris Project](https://github.com/IrisShaders/), as a Community moderator. [QuiltMC](https://github.com/QuiltMC), as a mappings reveiwer
-- 🌱 I’m currently learning: Java. My whole goal with modding was to learn java properly!
+- 🌱 I’m currently learning: Java, Kotlin and GLSL
 - 🤔 I’m looking for help with: Anything! If you feel i did a stupid somewhere, help me out!
 - 💬 Ask me about: Minecraft, Computers
 - 📫 How to reach me:  [![Discord](https://img.shields.io/discord/803619130090848286?color=%237289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/28N2Eeq2tT) [![Twitter Follow](https://img.shields.io/twitter/follow/NoComment_MC?label=%40NoComment_MC&style=social)](https://twitter.com/NoComment_MC) 
