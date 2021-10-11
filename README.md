@@ -19,5 +19,11 @@ Here are some ideas to get you started:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=NoComment1105&count_private=true&show_icons=true&include_all_commits=true&theme=dracula) 
 <!--START_SECTION:waka-->
-![NoComments's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NoComment1105&theme=dracula)
+```text
+Java         4 hrs 19 mins   █████████▓░░░░░░░░░░░░░░░   38.18 % 
+Other        4 hrs 11 mins   █████████▒░░░░░░░░░░░░░░░   37.02 % 
+Properties   1 hr 14 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+Groovy       1 hr 6 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+JSON         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+```
 <!--END_SECTION:waka-->
