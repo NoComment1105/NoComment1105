@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=NoComment1105&count_private=true&show_icons=true&include_all_commits=true&theme=dracula) 
 <!--START_SECTION:waka-->
 ```text
-Java         3 hrs 26 mins   █████████▒░░░░░░░░░░░░░░░   37.36 % 
-Kotlin       2 hrs 50 mins   ███████▓░░░░░░░░░░░░░░░░░   30.91 % 
-Other        2 hrs 10 mins   ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
-Groovy       11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-Properties   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Kotlin       2 hrs 50 mins   ██████████▓░░░░░░░░░░░░░░   42.25 % 
+Java         2 hrs 32 mins   █████████▒░░░░░░░░░░░░░░░   37.67 % 
+Other        57 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Git Config   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Markdown     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 ```
 <!--END_SECTION:waka-->
