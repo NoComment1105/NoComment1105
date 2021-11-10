@@ -18,10 +18,3 @@ Here are some ideas to get you started:
  I don't really intend to show off my stats to others im just personally interested in what i do, and this is an easy way for me to veiw them
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=NoComment1105&count_private=true&show_icons=true&include_all_commits=true&theme=dracula) 
-<!--START_SECTION:waka-->
-```text
-Java         3 hrs 39 mins   ███████████████████████▓░   94.97 % 
-Text         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Properties   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-```
-<!--END_SECTION:waka-->
