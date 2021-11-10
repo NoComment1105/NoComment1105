@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=NoComment1105&count_private=true&show_icons=true&include_all_commits=true&theme=dracula) 
 <!--START_SECTION:waka-->
 ```text
-Java         2 hrs 29 mins   ████████████████████████▓   98.69 % 
-Properties   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Java         3 hrs 39 mins   ███████████████████████▓░   94.97 % 
+Text         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Properties   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 ```
 <!--END_SECTION:waka-->
