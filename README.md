@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 My Projects: [Periodic](https://github.com/NoComment1105/periodic-mod-minecraft), [DeepslateCutting](https://github.com/NoComment1105/DeepslateCutting-fabric), [LilyBot](https://github.com/IrisShaders/LilyBot), [MobSpecificEnchants](https://github.com/NoComment1105/MobSpecificEnchants), [MoreLogBlocks](https://github.com/NoComment1105/MoreLogBlocks)
-- 🔭 I help out with: [The Iris Project](https://github.com/IrisShaders/), as a Community Admin. [QuiltMC](https://github.com/QuiltMC), as a member of the Mappings Team
+- 🔭 I help out with: [The Iris Project](https://github.com/IrisShaders/), as a Community Admin. [QuiltMC](https://github.com/QuiltMC), as a member of the Mappings Team and a Trainee Moderator
 - 🌱 I’m currently learning: Java, Kotlin and GLSL
 - 🤔 I’m looking for help with: Anything! If you feel i did a stupid somewhere, help me out!
 - 💬 Ask me about: Minecraft, Computers
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: They/Them
 - ⏰ Timezone: UTC/UTC+1
 
-- Want to support me?:  [![Patron](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DNoComment1105%26type%3Dpatrons&style=for-the-badge)](https://www.patreon.com/NoComment1105) 
+- Want to support me?:  [![Patron](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DNoComment1105%26type%3Dpatrons&style=social)](https://www.patreon.com/NoComment1105) 
 
  ### Stats and stuff
  I don't really intend to show off my stats to others im just personally interested in what i do, and this is an easy way for me to veiw them
@@ -20,3 +20,12 @@ Here are some ideas to get you started:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=NoComment1105&count_private=true&show_icons=true&include_all_commits=true&theme=dracula) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoComment1105&layout=compact&theme=dracula)
+
+
+### System Information:
+
+![OS - Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![DE - Xfce](https://img.shields.io/badge/Xfce-black?style=for-the-badge&logo=xfce&logoColor=white)
+
+![CPU - Ryzen 5 3500x](https://img.shields.io/badge/Ryzen_5_3500x-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![GPU - Radeon HD 6970](https://img.shields.io/badge/Radeon_HD_6970-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
