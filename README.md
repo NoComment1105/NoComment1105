@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning: Java, Kotlin and GLSL
 - 🤔 I’m looking for help with: Anything! If you feel i did a stupid somewhere, help me out!
 - 💬 Ask me about: Minecraft, Computers
-- 📫 How to reach me:  [![Discord](https://img.shields.io/discord/803619130090848286?color=%237289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/28N2Eeq2tT) [![Twitter Follow](https://img.shields.io/twitter/follow/NoComment_MC?label=%40NoComment_MC&style=social)](https://twitter.com/NoComment_MC) 
+- 📫 How to reach me:  [![Discord](https://img.shields.io/discord/803619130090848286?color=%237289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/28N2Eeq2tT) [![Twitter Follow](https://img.shields.io/twitter/follow/NoComment1105?label=%40NoComment1105&style=social)](https://twitter.com/NoComment1105) 
 - 😄 Pronouns: They/Them
 - ⏰ Timezone: UTC/UTC+1
 
