@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 ![DE - Xfce](https://img.shields.io/badge/Xfce-black?style=for-the-badge&logo=xfce&logoColor=white)
 
 ![CPU - Ryzen 5 3500x](https://img.shields.io/badge/Ryzen_5_3500x-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![GPU - Radeon HD 6970](https://img.shields.io/badge/Radeon_HD_6970-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![GPU - NVIDIA GeForce GTX 1650 SUPER](https://img.shields.io/badge/GTX_1650_SUPER-76b900?style=for-the-badge&logo=nvidia&logoColor=white)
