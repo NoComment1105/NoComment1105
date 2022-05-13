@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 My Favourite Projects: [DeepslateCutting](https://github.com/NoComment1105/DeepslateCutting-fabric), [LilyBot](https://github.com/IrisShaders/LilyBot), 
-- 🔭 I help out with: [The Iris Project](https://github.com/IrisShaders/), as a Community Admin. [QuiltMC](https://github.com/QuiltMC), as a member of the Mappings Team and a Trainee Moderator
+- 🔭 I help out with: [The Iris Project](https://github.com/IrisShaders/), as a Community Admin. [QuiltMC](https://github.com/QuiltMC), as a member of the Mappings Team and a Moderator
 - 🌱 I’m currently learning: Java, Kotlin and GLSL
 - 🤔 I’m looking for help with: Anything! If you feel i did a stupid somewhere, help me out!
 - 💬 Ask me about: Minecraft, Computers
