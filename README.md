@@ -1,18 +1,15 @@
-### Hello! We're the Comment System!
-To learn more about Plurality, please see [morethanone.info](https://morethanone.info).
+### Hello! I'm NoComment1105
 
-To learn more about the members of our System, please see [the PluralKit Dashboard](https://dash.pluralkit.me/profile/s/loobg?tab=system).
 
-#### A little about us
+#### A little about me
+I enjoy modern metal & rock music. I develop in Java and Kotlin primarily, while dabbling in GLSL occasionally.
 
-We both enjoy modern metal & rock music. We develop in Java and Kotlin primarily, while dabbling in GLSL occasionally.
+I'm 16
 
-We're 16
-
-We're here there and almost everywhere. You can find us working as:
-- Admins at [The Iris Project](https://irisshaders.net)
-- Moderators, Mappings Developers and Quilt Kotlin Library Developers with [QuiltMC](https://quiltmc.org). 
-- Lead Developers at [HyacinthBots](https://github.com/HyacinthBots)
+I'm here there and almost everywhere. You can find me working as:
+- An admin at [The Iris Project](https://irisshaders.net)
+- A Moderator, Mappings Developer and Quilt Kotlin Library Developer with [QuiltMC](https://quiltmc.org). 
+- A Lead Developer at [HyacinthBots](https://github.com/HyacinthBots)
 
 #### Socials and Support
 [![Discord](https://img.shields.io/discord/803619130090848286?color=%237289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/28N2Eeq2tT) [![Twitter Follow](https://img.shields.io/twitter/follow/NoComment1105?label=%40NoComment1105&style=social)](https://twitter.com/NoComment1105) 
