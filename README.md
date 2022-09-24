@@ -7,8 +7,8 @@ I enjoy modern metal & rock music. I develop in Java and Kotlin primarily, while
 I'm 16
 
 I'm here there and almost everywhere. You can find me working as:
-- An admin at [The Iris Project](https://irisshaders.net)
-- A Moderator, Mappings Developer and Quilt Kotlin Library Developer with [QuiltMC](https://quiltmc.org). 
+- A retired admin at [The Iris Project](https://irisshaders.net)
+- A Mappings Developer and Quilt Kotlin Library Developer with [QuiltMC](https://quiltmc.org). 
 - A Lead Developer at [HyacinthBots](https://github.com/HyacinthBots)
 
 #### Socials and Support Me
