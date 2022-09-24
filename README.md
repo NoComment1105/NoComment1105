@@ -11,8 +11,8 @@ I'm here there and almost everywhere. You can find me working as:
 - A Moderator, Mappings Developer and Quilt Kotlin Library Developer with [QuiltMC](https://quiltmc.org). 
 - A Lead Developer at [HyacinthBots](https://github.com/HyacinthBots)
 
-#### Socials and Support
-[![Discord](https://img.shields.io/discord/803619130090848286?color=%237289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/28N2Eeq2tT) [![Twitter Follow](https://img.shields.io/twitter/follow/NoComment1105?label=%40NoComment1105&style=social)](https://twitter.com/NoComment1105) 
+#### Socials and Support Me
+[![Twitter Follow](https://img.shields.io/twitter/follow/NoComment1105?label=%40NoComment1105&style=social)](https://twitter.com/NoComment1105) 
 
 [![Patron](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/NoComment1105)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nocomment1105)
