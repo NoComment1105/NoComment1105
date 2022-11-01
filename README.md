@@ -4,7 +4,7 @@
 #### A little about me
 I enjoy modern metal & rock music. I develop in Java and Kotlin primarily, while dabbling in GLSL occasionally.
 
-I'm 16
+I'm 17
 
 I'm here there and almost everywhere. You can find me working as:
 - A retired admin at [The Iris Project](https://irisshaders.net)
