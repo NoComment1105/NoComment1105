@@ -7,9 +7,8 @@ I enjoy modern metal & rock music. I develop in Java and Kotlin primarily, while
 I'm 17
 
 I'm here there and almost everywhere. You can find me working as:
-- A retired admin at [The Iris Project](https://irisshaders.net)
-- A Mappings Developer and Quilt Kotlin Library Developer with [QuiltMC](https://quiltmc.org). 
 - A Lead Developer at [HyacinthBots](https://github.com/HyacinthBots)
+- I also hang about at [Iris Shaders](https://irisshaders.dev)
 
 #### Socials and Support Me
 [![Twitter Follow](https://img.shields.io/twitter/follow/NoComment1105?label=%40NoComment1105&style=social)](https://twitter.com/NoComment1105) 
