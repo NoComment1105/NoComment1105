@@ -2,18 +2,14 @@
 
 
 #### A little about me
-I enjoy modern metal & rock music. I develop in Java and Kotlin primarily, while dabbling in GLSL occasionally.
+I enjoy modern metal & rock music. I develop in Java and Kotlin primarily, while dabbling in other languages occasionally.
 
-I'm 17
+I'm 18
 
 I'm here there and almost everywhere. You can find me working as:
 - A Lead Developer at [HyacinthBots](https://github.com/HyacinthBots)
-- I also hang about at [Iris Shaders](https://irisshaders.dev)
 
 #### Socials and Support Me
-[![Twitter Follow](https://img.shields.io/twitter/follow/NoComment1105?label=%40NoComment1105&style=social)](https://twitter.com/NoComment1105) 
-
-[![Patron](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/NoComment1105)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nocomment1105)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=NoComment1105&count_private=true&show_icons=true&include_all_commits=true&theme=dracula) 
