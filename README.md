@@ -9,9 +9,7 @@ I'm 18
 I'm here there and almost everywhere. You can find me working as:
 - A Lead Developer at [HyacinthBots](https://github.com/HyacinthBots)
 
-#### Socials and Support Me
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nocomment1105)
-
+### Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=NoComment1105&count_private=true&show_icons=true&include_all_commits=true&theme=dracula) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoComment1105&layout=compact&theme=dracula)
 
@@ -22,4 +20,4 @@ I'm here there and almost everywhere. You can find me working as:
 [![DE - Xfce](https://img.shields.io/badge/Xfce-black?style=for-the-badge&logo=xfce&logoColor=white)](https://xfce.org)
 
 [![CPU - Ryzen 5 3500x](https://img.shields.io/badge/Ryzen_5_3500x-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://www.techpowerup.com/cpu-specs/ryzen-5-3500x.c2264)
-[![GPU - NVIDIA GeForce GTX 1650 SUPER](https://img.shields.io/badge/GTX_1650_SUPER-76b900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.techpowerup.com/gpu-specs/asus-phoenix-gtx-1650-super-oc.b7470)
+[![GPU - NVIDIA GeForce GTX 1650 SUPER](https://img.shields.io/badge/GeForce_RTX_4060_-76b900?style=for-the-badge&logo=nvidia&logoColor=white)]([https://www.techpowerup.com/gpu-specs/asus-phoenix-gtx-1650-super-oc.b747](https://www.techpowerup.com/gpu-specs/gigabyte-rtx-4060-windforce-oc.b11137))
